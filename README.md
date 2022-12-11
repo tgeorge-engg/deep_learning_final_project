@@ -6,7 +6,7 @@ main_code.ipynb corresponds to the CAP implementation and training
 
 The model for Baseline 1 can be found here: https://drive.google.com/file/d/1oEVQ5KoaCKhwsXAj7YpwCPSX-NIZ8pFy/view?usp=share_link
 
-The model for Baseline 2 can be found here: https://drive.google.com/file/d/1oEVQ5KoaCKhwsXAj7YpwCPSX-NIZ8pFy/view?usp=share_link
+The model for Baseline 2 can be found here: https://drive.google.com/file/d/1EFi2BcCVH3NR0DKZpyPrPmmslsAYEoWt/view?usp=share_link
 
 The model for Baseline 3 can be found here: https://drive.google.com/file/d/1uBl3Pv9_rUhUV-sKLXHQycw9aKGcm_N-/view?usp=share_link
 
